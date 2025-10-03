@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**raihanadf/raihanadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ _____________________________________
+/ The best time to plant a tree was  \
+| 20 years ago. The second best time |
+\ is now.                             /
+ -------------------------------------
+        \
+         \
+          \
+             /\_/\  
+            ( ^.^ ) 
+             > ^ <
+            /|   |\
+           (_|   |_)
+```
