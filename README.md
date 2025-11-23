@@ -1,17 +1,1 @@
-```
-   _____________________________________
- /                                       \
-|   <!--FORTUNE-START-->                 |
-|   Hi!                                  |
- \  <!--FORTUNE-END-->                   /
-   -------------------------------------
-        \
-         \
-          \
-             /\_/\  
-            ( ^.^ ) 
-             > ^ 
-            /|   |\
-           (_|   |_)
-
-```
+You recoil from the crude; you tend naturally toward the exquisite.
