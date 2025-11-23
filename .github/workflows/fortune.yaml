@@ -1,0 +1,41 @@
+name: Update Fortune
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-fortune:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Install fortune
+        run: sudo apt-get update && sudo apt-get install -y fortune-mod
+      
+      - name: Generate fortune
+        run: |
+          FORTUNE=$(fortune -s | fold -w 35 -s)
+          echo "$FORTUNE" > fortune.txt
+      
+      - name: Update README
+        run: |
+          FORTUNE=$(cat fortune.txt | sed 's/^/|   /')
+          awk -v fortune="$FORTUNE" '
+            /<!--FORTUNE-START-->/ {print; getline; 
+              while (!/<!--FORTUNE-END-->/) getline;
+              print fortune;
+              print "|   <!--FORTUNE-END-->";
+              next}
+            {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+      
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔮 Daily fortune update"
+          git push
