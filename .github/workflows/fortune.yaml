@@ -18,27 +18,14 @@ jobs:
       - name: Install fortune
         run: sudo apt-get update && sudo apt-get install -y fortune-mod
       
-      - name: Generate fortune
+      - name: Generate fortune and update README
         run: |
-          FORTUNE=$(fortune -s | fold -w 35 -s)
-          echo "$FORTUNE" > fortune.txt
-      
-      - name: Update README
-        run: |
-          FORTUNE=$(cat fortune.txt | sed 's/^/|   /')
-          awk -v fortune="$FORTUNE" '
-            /<!--FORTUNE-START-->/ {print; getline; 
-              while (!/<!--FORTUNE-END-->/) getline;
-              print fortune;
-              print "|   <!--FORTUNE-END-->";
-              next}
-            {print}
-          ' README.md > README.tmp && mv README.tmp README.md
+          fortune > README.md
       
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔮 Daily fortune update"
+          git diff --quiet && git diff --staged --quiet || git commit -m "literally ur fortune if you see this"
           git push
