@@ -1,1 +1,2 @@
-You recoil from the crude; you tend naturally toward the exquisite.
+Repartee is something we think of twenty-four hours too late.
+		-- Mark Twain
