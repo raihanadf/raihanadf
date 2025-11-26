@@ -1,1 +1,2 @@
-You are farsighted, a good planner, an ardent lover, and a faithful friend.
+You have a reputation for being thoroughly reliable and trustworthy.
+A pity that it's totally undeserved.
