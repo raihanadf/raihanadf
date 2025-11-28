@@ -1,1 +1,2 @@
-You never hesitate to tackle the most difficult problems.
+Give thought to your reputation.  Consider changing name and moving to
+a new town.
