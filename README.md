@@ -1,1 +1,1 @@
-You will gain money by a speculation or lottery.
+Beware of a dark-haired man with a loud tie.
