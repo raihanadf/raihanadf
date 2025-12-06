@@ -1,1 +1,1 @@
-Beware of a dark-haired man with a loud tie.
+You will visit the Dung Pits of Glive soon.
