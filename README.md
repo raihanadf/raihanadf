@@ -1,1 +1,1 @@
-You enjoy the company of other people.
+Someone whom you reject today, will reject you tomorrow.
