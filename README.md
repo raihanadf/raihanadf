@@ -1,1 +1,1 @@
-Someone whom you reject today, will reject you tomorrow.
+Your boss climbed the corporate ladder, wrong by wrong.
