@@ -1,1 +1,1 @@
-Q:	How do you keep a moron in suspense?
+You will engage in a profitable business activity.
