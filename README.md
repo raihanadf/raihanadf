@@ -1,1 +1,2 @@
-Don't you wish you had more energy... or less ambition?
+Small things make base men proud.
+		-- William Shakespeare, "Henry VI"
