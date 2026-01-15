@@ -1,2 +1,2 @@
-The whole world is a tuxedo and you are a pair of brown shoes.
-		-- George Gobel
+If two people love each other, there can be no happy end to it.
+		-- Ernest Hemingway
