@@ -1,2 +1,2 @@
-If two people love each other, there can be no happy end to it.
-		-- Ernest Hemingway
+Too much is just enough.
+		-- Mark Twain, on whiskey
