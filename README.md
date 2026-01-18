@@ -1,1 +1,2 @@
-You may be recognized soon.  Hide.
+Today's weirdness is tomorrow's reason why.
+		-- Hunter S. Thompson
