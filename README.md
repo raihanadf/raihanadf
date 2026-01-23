@@ -1,2 +1,2 @@
-Q:	What's the difference between Bell Labs and the Boy Scouts of America?
-A:	The Boy Scouts have adult supervision.
+You had some happiness once, but your parents moved away, and you had to
+leave it behind.
