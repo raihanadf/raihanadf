@@ -1,1 +1,1 @@
-You will be the victim of a bizarre joke.
+There is a fly on your nose.
