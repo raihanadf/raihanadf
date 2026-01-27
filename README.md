@@ -1,1 +1,1 @@
-You are only young once, but you can stay immature indefinitely.
+You will be awarded a medal for disregarding safety in saving someone.
