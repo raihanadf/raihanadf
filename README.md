@@ -1,1 +1,1 @@
-You will always have good luck in your personal affairs.
+You are not dead yet.  But watch for further reports.
