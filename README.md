@@ -1,1 +1,2 @@
-You have many friends and very few living enemies.
+Q:	Why did Menachem Begin invade Lebanon?
+A:	To impress Jodie Foster.
