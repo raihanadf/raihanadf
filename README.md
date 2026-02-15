@@ -1,1 +1,1 @@
-Try the Moo Shu Pork.  It is especially good today.
+Don't kiss an elephant on the lips today.
