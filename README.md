@@ -1,2 +1,1 @@
-If you learn one useless thing every day, in a single year you'll learn
-365 useless things.
+People are beginning to notice you.  Try dressing before you leave the house.
