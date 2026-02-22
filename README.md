@@ -1,6 +1,5 @@
-Q:	How many journalists does it take to screw in a light bulb?
-A:	Three.  One to report it as an inspired government program to bring
-	light to the people, one to report it as a diabolical government plot
-	to deprive the poor of darkness, and one to win a Pulitzer prize for
-	reporting that Electric Company hired a light bulb-assassin to break
-	the bulb in the first place.
+Knucklehead:	"Knock, knock"
+Pee Wee:	"Who's there?"
+Knucklehead:	"Little ol' lady."
+Pee Wee:	"Liddle ol' lady who?"
+Knucklehead:	"I didn't know you could yodel"
