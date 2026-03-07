@@ -1,1 +1,2 @@
-You now have Asian Flu.
+Don't worry.  Life's too long.
+		-- Vincent Sardi, Jr.
