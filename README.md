@@ -1,1 +1,2 @@
-You will be married within a year, and divorced within two.
+Repartee is something we think of twenty-four hours too late.
+		-- Mark Twain
