@@ -1,2 +1,2 @@
-Repartee is something we think of twenty-four hours too late.
-		-- Mark Twain
+You are destined to become the commandant of the fighting men of the
+department of transportation.
