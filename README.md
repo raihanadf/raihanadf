@@ -1,1 +1,1 @@
-You will win success in whatever calling you adopt.
+An exotic journey in downtown Newark is in your future.
