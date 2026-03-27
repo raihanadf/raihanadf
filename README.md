@@ -1,1 +1,1 @@
-An exotic journey in downtown Newark is in your future.
+Love is in the offing.  Be affectionate to one who adores you.
