@@ -1,1 +1,1 @@
-You will inherit some money or a small piece of land.
+Don't relax!  It's only your tension that's holding you together.
