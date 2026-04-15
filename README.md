@@ -1,1 +1,2 @@
-You will soon forget this.
+When angry, count four; when very angry, swear.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
