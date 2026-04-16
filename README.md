@@ -1,2 +1,1 @@
-When angry, count four; when very angry, swear.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Your lucky number is 3552664958674928.  Watch for it everywhere.
