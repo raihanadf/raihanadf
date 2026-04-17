@@ -1,1 +1,2 @@
-Your lucky number is 3552664958674928.  Watch for it everywhere.
+You are scrupulously honest, frank, and straightforward.  Therefore you
+have few friends.
