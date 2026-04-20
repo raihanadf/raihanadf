@@ -1,1 +1,1 @@
-Communicate!  It can't make things any worse.
+Your heart is pure, and your mind clear, and your soul devout.
