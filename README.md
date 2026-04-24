@@ -1,2 +1,3 @@
-As flies to wanton boys are we to the gods; they kill us for their sport.
-		-- Shakespeare, "King Lear"
+Zounds!  I was never so bethumped with words
+since I first called my brother's father dad.
+		-- William Shakespeare, "Kind John"
