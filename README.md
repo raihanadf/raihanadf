@@ -1,1 +1,1 @@
-Never be led astray onto the path of virtue.
+Let me put it this way: today is going to be a learning experience.
