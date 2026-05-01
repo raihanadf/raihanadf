@@ -1,1 +1,1 @@
-You are number 6!  Who is number one?
+It was all so different before everything changed.
