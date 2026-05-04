@@ -1,2 +1,2 @@
-Q:	What is purple and conquered the world?
-A:	Alexander the Grape.
+Q:	How much does it cost to ride the Unibus?
+A:	2 bits.
