@@ -1,2 +1,1 @@
-While you recently had your problems on the run, they've regrouped and
-are making another attack.
+Best of all is never to have been born.  Second best is to die soon.
