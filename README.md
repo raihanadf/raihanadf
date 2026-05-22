@@ -1,1 +1,1 @@
-Avoid reality at all costs.
+Caution: breathing may be hazardous to your health.
