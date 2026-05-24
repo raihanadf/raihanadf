@@ -1,1 +1,2 @@
-You are standing on my toes.
+Big book, big bore.
+		-- Callimachus
