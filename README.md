@@ -1,1 +1,1 @@
-Don't read everything you believe.
+Generosity and perfection are your everlasting goals.
