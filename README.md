@@ -1,2 +1,2 @@
-Q:	How did you get into artificial intelligence?
-A:	Seemed logical -- I didn't have any real intelligence.
+It is a wise father that knows his own child.
+		-- William Shakespeare, "The Merchant of Venice"
