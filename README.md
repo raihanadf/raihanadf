@@ -1,2 +1,3 @@
-Q:	What's the difference between a duck and an elephant?
-A:	You can't get down off an elephant.
+If you pick up a starving dog and make him prosperous, he will not bite you.
+This is the principal difference between a dog and a man.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
