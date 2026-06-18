@@ -1,1 +1,1 @@
-Think twice before speaking, but don't say "think think click click".
+Your object is to save the world, while still leading a pleasant life.
