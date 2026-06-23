@@ -1,1 +1,1 @@
-Your life would be very empty if you had nothing to regret.
+Today is the tomorrow you worried about yesterday.
