@@ -1,1 +1,2 @@
-Today is the tomorrow you worried about yesterday.
+Q:	How was Thomas J. Watson buried?
+A:	9 edge down.
