@@ -1,3 +1,3 @@
-Many a writer seems to think he is never profound except when he can't
-understand his own meaning.
-		-- George D. Prentice
+In the Spring, I have counted 136 different kinds of weather inside of
+24 hours.
+		-- Mark Twain, on New England weather
