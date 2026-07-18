@@ -1,1 +1,1 @@
-You are farsighted, a good planner, an ardent lover, and a faithful friend.
+Today is the first day of the rest of the mess.
