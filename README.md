@@ -1,1 +1,2 @@
-Today is the first day of the rest of the mess.
+Q:	What do little WASPs want to be when they grow up?
+A:	The very best person they can possibly be.
