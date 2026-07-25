@@ -1,2 +1,2 @@
-Q:	What do you call a blind, deaf-mute, quadraplegic Virginian?
-A:	Trustworthy.
+Wrinkles should merely indicate where smiles have been.
+		-- Mark Twain
