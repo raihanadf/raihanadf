@@ -1,1 +1,2 @@
-Never commit yourself!  Let someone else commit you.
+The surest protection against temptation is cowardice.
+		-- Mark Twain
