@@ -1,1 +1,1 @@
-Avoid reality at all costs.
+You'd like to do it instantaneously, but that's too slow.
