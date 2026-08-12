@@ -1,1 +1,1 @@
-Expect the worst, it's the least you can do.
+Beware of a tall blond man with one black shoe.
