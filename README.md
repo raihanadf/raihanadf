@@ -1,3 +1,3 @@
-The human race is a race of cowards; and I am not only marching in that
-procession but carrying a banner.
-		-- Mark Twain
+A hundred years from now it is very likely that [of Twain's works] "The
+Jumping Frog" alone will be remembered.
+		-- Harry Thurston Peck (Editor of "The Bookman"), January 1901.
