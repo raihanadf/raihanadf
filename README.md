@@ -1,1 +1,1 @@
-You have a strong appeal for members of the opposite sex.
+Time to be aggressive.  Go after a tattooed Virgo.
