@@ -1,1 +1,1 @@
-You enjoy the company of other people.
+You will meet an important person who will help you advance professionally.
