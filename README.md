@@ -1,3 +1,3 @@
-Q:	Why should you always serve a Southern Carolina football man
-	soup in a plate?
-A:	'Cause if you give him a bowl, he'll throw it away.
+There is an old time toast which is golden for its beauty.
+"When you ascend the hill of prosperity may you not meet a friend."
+		-- Mark Twain
