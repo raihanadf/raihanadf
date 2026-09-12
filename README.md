@@ -1,1 +1,1 @@
-Ships are safe in harbor, but they were never meant to stay there.
+An exotic journey in downtown Newark is in your future.
