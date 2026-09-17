@@ -1,1 +1,2 @@
-Beware the one behind you.
+The surest protection against temptation is cowardice.
+		-- Mark Twain
