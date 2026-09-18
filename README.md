@@ -1,2 +1,1 @@
-The surest protection against temptation is cowardice.
-		-- Mark Twain
+So you're back... about time...
