@@ -1,1 +1,2 @@
-So you're back... about time...
+Don't Worry, Be Happy.
+		-- Meher Baba
