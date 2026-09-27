@@ -1,2 +1,2 @@
-The fashion wears out more apparel than the man.
-		-- William Shakespeare, "Much Ado About Nothing"
+Repartee is something we think of twenty-four hours too late.
+		-- Mark Twain
