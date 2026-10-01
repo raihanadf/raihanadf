@@ -1,1 +1,1 @@
-Stay away from flying saucers today.
+Love is in the offing.  Be affectionate to one who adores you.
