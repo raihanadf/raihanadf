@@ -1,1 +1,1 @@
-Are you a turtle?
+Good day for overcoming obstacles.  Try a steeplechase.
