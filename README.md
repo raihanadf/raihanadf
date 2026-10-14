@@ -1,1 +1,2 @@
-You'll feel much better once you've given up hope.
+Q:	Why do WASPs play golf ?
+A:	So they can dress like pimps.
