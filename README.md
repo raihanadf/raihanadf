@@ -1,2 +1,2 @@
-What I tell you three times is true.
-		-- Lewis Carroll
+All generalizations are false, including this one.
+		-- Mark Twain
