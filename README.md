@@ -1,1 +1,2 @@
-Your lucky number is 3552664958674928.  Watch for it everywhere.
+Q:	Why did Menachem Begin invade Lebanon?
+A:	To impress Jodie Foster.
