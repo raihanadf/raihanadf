@@ -1,2 +1,1 @@
-O, what a tangled web we weave, When first we practice to deceive.
-		-- Sir Walter Scott, "Marmion"
+Don't relax!  It's only your tension that's holding you together.
