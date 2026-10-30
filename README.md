@@ -1,1 +1,2 @@
-You're not my type.  For that matter, you're not even my species!!!
+Q:	How do you save a drowning lawyer?
+A:	Throw him a rock.
