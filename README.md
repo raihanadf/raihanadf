@@ -1,2 +1,1 @@
-Q:	How do you save a drowning lawyer?
-A:	Throw him a rock.
+Write yourself a threatening letter and pen a defiant reply.
