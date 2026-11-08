@@ -1,1 +1,1 @@
-You're being followed.  Cut out the hanky-panky for a few days.
+You have Egyptian flu: you're going to be a mummy.
