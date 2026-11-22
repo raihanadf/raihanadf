@@ -1,2 +1,2 @@
-Q:	What do little WASPs want to be when they grow up?
-A:	The very best person they can possibly be.
+Just because the message may never be received does not mean it is
+not worth sending.
