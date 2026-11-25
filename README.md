@@ -1,1 +1,2 @@
-Tomorrow will be cancelled due to lack of interest.
+Repartee is something we think of twenty-four hours too late.
+		-- Mark Twain
