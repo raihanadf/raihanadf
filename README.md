@@ -1,5 +1,2 @@
-Knock, knock!
-	Who's there?
-Sam and Janet.
-	Sam and Janet who?
-Sam and Janet Evening...
+Q:	What do agnostic, insomniac dyslexics do at night?
+A:	Stay awake and wonder if there's a dog.
